@@ -1,0 +1,1442 @@
+
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script src="/themes/theme_boosted/js/dark-init.js"></script>
+<link rel="canonical" href="https://www.orange.com/en" />
+<meta name="robots" content="index, follow" />
+<link rel="shortlink" href="https://www.orange.com/en" />
+<meta name="last_modified" content="2023-04-04T18:41:27+0200" />
+<meta name="description" content="Corporate Website of Orange - orange.com" />
+<meta name="category" content="corporate" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<link rel="icon" href="/themes/theme_boosted/Small_Logo_RGB.png" type="image/png" />
+<link rel="alternate" hreflang="fr" href="https://www.orange.com/fr" />
+<link rel="alternate" hreflang="en" href="https://www.orange.com/en" />
+<script src="/sites/orangecom/files/google_tag/gtm_corp_bhmes_public/google_tag.script.js?rsf7ic" defer></script>
+
+    <title>Corporate Website of Orange - orange.com | Corporate</title>
+    <link rel="stylesheet" media="all" href="/sites/orangecom/files/css/css_IWoKro2AZEbuoAxvmCo0PfPt6274NsFnDnWp3liqUIM.css" />
+<link rel="stylesheet" media="all" href="/sites/orangecom/files/css/css_N2K7w9e7_JHyik65aii-7C6b_7RUHjapvsjCAqTKB6Q.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/523","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"core\/drupal.autocomplete,entity_embed\/caption,oab_algolia\/algolia_search_autocomplete,oab_ckeditor\/oab_ckeditor.templates,oab_ckeditor_boosted_collapses\/collapses,oab_ckeditor_boosted_rtabs\/Rtabs,oab_ckeditor_boosted_tabs\/tabs,oab_epresspack\/epresspack_liste,oab_flipbook\/oab_flipbook.global,oab_frontoffice\/intranet_search_autocomplete,oab_tac_lite_admin\/oab_tac_lite_admin.global,oab_tealium\/oab_tealium.script,paragraphs\/drupal.paragraphs.unpublished,system\/base,theme_boosted\/global-styling","theme":"theme_boosted","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/en\/search\/node":true},"small_logo_path":"\/themes\/theme_boosted\/Small_Logo_RGB.png","main_logo_path":"\/themes\/theme_boosted\/Master_Logo_RGB.png","tealium":{"data":{"siteName":"orange.com","siteEnvironment":"prod","language":"en","userAgent":"Mozilla\/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/37.0.2049.0 Safari\/537.36","articleTitle":"Corporate Website of Orange - orange.com","articleID":"523","articlePublishedDate":"2020-06-12","articleUpdatedDate":"2023-04-04","articleAuthor":"1","articleContentLength":"Large","articleThematic":"N\/A","articleContentType":"N\/A","pageCategory":"homepage"},"url":"\/\/tags.tiqcdn.com\/utag\/orange\/corp\/prod\/utag.js"},"host":"www.orange.com","hostBase":"https:\/\/www.orange.com","user":{"uid":0,"permissionsHash":"446a7245405dc6b72666405df377f64a9dfcf3ac8515a8a676ff270ff515800b"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.3"></script>
+<script src="/core/misc/polyfills/element.matches.js?v=9.5.3"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=9.5.3"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.5.3"></script>
+<script src="/core/misc/drupal.js?v=9.5.3"></script>
+<script src="/core/misc/drupal.init.js?v=9.5.3"></script>
+<script src="/core/misc/jquery.once.bc.js?v=9.5.3"></script>
+<script src="/modules/custom/oab_tac_lite_admin/js/oab-tac-lite-admin.js?v=1.x"></script>
+<script src="/modules/custom/oab_flipbook/js/oab_flipbook.js?v=1.x"></script>
+<script src="/modules/custom/oab_epresspack/js/oab_epresspack.js?v=1.x"></script>
+
+              <script src="//cdn1.readspeaker.com/script/5725/ReadSpeaker.js?pids=embhl,exp,dr" type="text/javascript"></script>
+          <meta property="og:locale" content="" />
+    <meta property="og:type" content="website" />
+    <meta name="google-site-verification" content="iHnLTanmNrayy242D1Ii7gK8FUvdu7WHtzWFk0VEYCc" />
+        </head>
+  <body class="path-frontpage page-node-type-home" >
+    <div class="skiplinks container-fluid">
+      <a href="#main-content" class="sr-only sr-only-focusable">Skip to main content</a>
+    </div>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3LZ4NV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+      <a href="#" class="o-scroll-up d-none" title="back to top">
+  <span class="d-none d-sm-inline-block">Back to top</span>
+</a>
+
+  
+        
+        
+  <header role="banner"  class="width-mode-large sticky-nav">
+    
+
+  <div class="region region-header">
+      
+
+    
+                  
+
+    
+<nav role="navigation" class="navbar navbar-dark navbar-expand-md supra">
+  <div class="container-lg flex-sm-wrap flex-md-nowrap">
+      
+              <ul class="navbar-nav">
+          
+
+                                    
+                        
+                                                  
+            <li class="nav-item">
+              <a href="/en/groups-websites" target="_self" class="nav-link " title="Customers" rel="" data-drupal-link-system-path="node/1206">Customers</a>
+            </li>
+          
+
+                                    
+                        
+                                                  
+            <li class="nav-item">
+              <a href="https://www.orange-business.com/en" target="_blank" class="nav-link " title="Orange Business" rel="">Orange Business</a>
+            </li>
+          
+
+                                    
+                        
+                                                  
+            <li class="nav-item">
+              <a href="https://orange.jobs/site/en-home/" target="_blank" class="nav-link " title="Orange Jobs" rel="">Orange Jobs</a>
+            </li>
+                  </ul>
+      
+
+  </div>
+</nav>
+
+
+
+
+          
+    <nav class="navbar navbar-dark navbar-expand-md " role="navigation" aria-label="Main navigation Fr">
+      <div class="container-lg flex-sm-wrap flex-md-nowrap">
+                  
+        
+      <a class="navbar-brand" href="https://www.orange.com" title="Logo">
+      <img class="site-logo" src="/themes/theme_boosted/Master_Logo_RGB.png" alt="Home" />
+    </a>
+        
+    
+  
+                <ul class="navbar-nav d-md-none flex-row ml-auto">
+
+    
+
+        <li class="nav-item">
+      <button type="button" class="nav-link btn btn-icon nav-icon svg-search collapsed" data-toggle="collapse" data-target="#algolia-search-bar" aria-expanded="false" aria-controls="algolia-search-bar">
+        <span class="sr-only">Algolia Search bar</span>
+      </button>
+    </li>
+  
+                 <li class="nav-item">
+      <a href="/fr" class="nav-link text-uppercase" lang="fr" aria-label="Version française" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">fr</a>
+    </li>         <li class="nav-item">
+      <a href="/en" class="nav-link text-uppercase active is-active" lang="en" aria-label="English version" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">en</a>
+    </li>
+
+    </ul>
+
+       <button class="navbar-toggler d-md-none collapsed" type="button" data-toggle="collapse" data-target="#collapsing-navbarHead" aria-controls="collapsing-navbarHead" aria-expanded="false" aria-label="Toggle navigation">
+          <span aria-hidden="true" class="navbar-toggler-icon"></span>
+        </button>
+        <div class="mega-menu navbar-collapse justify-content-between collapse" id="collapsing-navbarHead">
+                                        
+
+    
+
+        <ul data-region="header" class="navbar-nav">
+            
+
+                                        
+                
+                                  
+        <li class="nav-item main-menu-level-0">
+                      <a class="nav-link "
+               href="#mega-level-1-collapse"
+               data-toggle="collapse"
+               target="_self"
+               rel=""
+            >
+                Commitments
+            </a>
+            <div class="mega-menu-panel collapse" id="mega-level-1-collapse">
+              <div class="container-lg">
+                                <a class="nav-link close ml-auto nav-link " data-toggle="collapse" href="#mega-level-1-collapse" aria-expanded="false" aria-controls="mega-level-1-collapse" title="Close Commitments menu">
+                  <span class="sr-only">Close Commitments menu</span>
+                </a>
+              </div>
+              <div class="container-lg">
+                                                                                                                                          <ul class="navbar-nav">
+                                              <li class="nav-item col col-md-4">
+                          <span class="nav-link " onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Orange&#039;s commitment</span>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Orange&#039;s commitment</a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/oranges-commitment-environment" class="nav-link" target="_self" rel="">To the environment</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/oranges-commitment-digital-equality" class="nav-link" target="_self" rel="">To digital equality</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/oranges-commitment-build-society-based-trust" class="nav-link" target="_self" rel="">To building a society based on trust </a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/oranges-commitment-responsible-business" class="nav-link " target="_self" rel="">To supporting a responsible economy </a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/engagements/our-purpose-compass-guides-all-our-future-actions" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/802">Our purpose</a>
+                  </li>
+                              </ul>
+                      </li>
+                                      <li class="nav-item col col-md-4">
+                          <span class="nav-link " onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Social responsibility </span>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Social responsibility </a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/engagements/our-contribution-sustainable-development-goals" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1188">Our contribution to the Sustainable Development Goals </a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/engagements/principles-behind-our-csr-approach" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1184">The principles behind our CSR approach</a>
+                  </li>
+                              </ul>
+                      </li>
+                                      <li class="nav-item col col-md-4">
+                          <span class="nav-link " onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Our brand</span>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Our brand</a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/engagements/la-marque/la-marque-orange" class="nav-link " target="_self" rel="">A committed brand</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/orange-strong-brand-esg-action/orange-story-commitment-spans-ages" class="nav-link" target="_self" rel="">The story of our brand </a>
+                  </li>
+                              </ul>
+                      </li>
+              </ul>
+    
+                              </div>
+                              <div class="container-lg"><div class="navbar-nav"><div class="mega-menu-bottom col col-md-12">
+            <div class="field field--name-field-bottom-content field--type-text-long field--label-hidden field--item"><div class="container" style="max-width:100%;">
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="https://rai2021.orange.com/en/" target="_blank"><i class="bs-icon-left glyphicon bmhes-internet text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">Integrated Annual Report</span></a></div>
+
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="/en/non-financial-reporting"><i class="bs-icon-left glyphicon bmhes-internet text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">Non-financial reporting</span></a></div>
+
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="https://gallery.orange.com/rse#lang=en&amp;v=root" target="_blank"><i class="bs-icon-left glyphicon bmhes-internet text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">CSR media library</span></a></div>
+
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="https://www.fondationorange.com/en" target="_blank"><i class="bs-icon-left glyphicon bmhes-internet text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">The Orange Foundation</span></a></div>
+</div>
+</div>
+      </div></div></div>
+                          </div>
+                  </li>
+      
+
+                                        
+                
+                                  
+        <li class="nav-item main-menu-level-0">
+                      <a class="nav-link "
+               href="#mega-level-2-collapse"
+               data-toggle="collapse"
+               target="_self"
+               rel=""
+            >
+                Group
+            </a>
+            <div class="mega-menu-panel collapse" id="mega-level-2-collapse">
+              <div class="container-lg">
+                                <a class="nav-link close ml-auto nav-link " data-toggle="collapse" href="#mega-level-2-collapse" aria-expanded="false" aria-controls="mega-level-2-collapse" title="Close Group menu">
+                  <span class="sr-only">Close Group menu</span>
+                </a>
+              </div>
+              <div class="container-lg">
+                                                                                                                                          <ul class="navbar-nav">
+                                              <li class="nav-item col col-md-4">
+                          <a href="" class="nav-link" onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Overview</a>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Overview</a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/orange-group" class="nav-link" target="_self" rel="">Who are we?</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="https://histoire.orange.com/en/" class="nav-link" target="_self" rel="">History</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/sites/orangecom/files/2023-02/PR_Orange_Lead_the_future_EN_160223_0.pdf" class="nav-link " target="_self" rel="">Strategy</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/group/overview/useful-innovation-that-enables-everyone-to-progress" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1054">Innovation</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/scientific-council" class="nav-link" target="_self" rel="">Scientific Council</a>
+                  </li>
+                              </ul>
+                      </li>
+                                      <li class="nav-item col col-md-4">
+                          <a href="/en/groups-general-management-committee" class="nav-link" onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Governance</a>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Governance</a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/group/governance/oranges-governance" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/684">Orange&#039;s governance</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/board-directors-duties-and-members" class="nav-link " target="_self" rel="">Board of Directors</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/board-directors-specialised-committees" class="nav-link" target="_self" rel="">Board of Directors&#039; specialised committees </a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/groups-general-management-committee" class="nav-link" target="_self" rel="">Executive Committee</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/structure-and-organisation-orange-internal-control-framework-0" class="nav-link" target="_self" rel="">Internal Control Framework</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="https://gallery.orange.com/#lang=en&amp;v=66ec8895-3ebc-41bf-9271-25a13b982fe2" target="_blank" class="nav-link " rel="">Documentation related to Governance</a>
+                  </li>
+                              </ul>
+                      </li>
+                                      <li class="nav-item col col-md-4">
+                          <a href="" class="nav-link" onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Our activities</a>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Our activities</a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/group/our-activities/networks" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1128">Networks</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/cyberdefense-guardians-network" class="nav-link" target="_self" rel="">Cybersecurity</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/group/our-activities/orange-wholesale" class="nav-link " title="Wholesale operator services" target="_self" rel="" data-drupal-link-system-path="node/2476">Orange Wholesale</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/group/our-activities/mobile-financial-services" class="nav-link" target="_self" rel="" data-drupal-link-system-path="node/1158">Mobile financial services</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/expertise-our-subsidiaries-service-companies" class="nav-link " target="_self" rel="">Business services</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/how-orange-supporting-shift-e-health" class="nav-link " target="_self" rel="">Health</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/how-orange-supports-start-ups" class="nav-link " target="_self" rel="">Start-ups</a>
+                  </li>
+                              </ul>
+                      </li>
+              </ul>
+    
+                              </div>
+                              <div class="container-lg"><div class="navbar-nav"><div class="mega-menu-bottom col col-md-12">
+            <div class="field field--name-field-bottom-content field--type-text-long field--label-hidden field--item"><div class="container" style="max-width:100%;">
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="/en/orange-world"><i class="bs-icon-left glyphicon bmhes-internet text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp;<span class="text">Orange around the world</span></a></div>
+
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="/en/documentation-networks"><i class="bs-icon-left glyphicon bmhes-download text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">Networks documentation</span></a></div>
+
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="/en/groupe/orange-bruxelles"><i class="bs-icon-left glyphicon bmhes-internet text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp;<span class="text">Orange and the EU</span></a></div>
+</div>
+<style type="text/css">.mega-menu a.rspkr_dr_link > img { display:none !important; }
+</style>
+</div>
+      </div></div></div>
+                          </div>
+                  </li>
+      
+
+                                        
+                
+                                  
+        <li class="nav-item main-menu-level-0">
+                      <a class="nav-link "
+               href="#mega-level-3-collapse"
+               data-toggle="collapse"
+               target="_self"
+               rel=""
+            >
+                Finance
+            </a>
+            <div class="mega-menu-panel collapse" id="mega-level-3-collapse">
+              <div class="container-lg">
+                                <a class="nav-link close ml-auto nav-link " data-toggle="collapse" href="#mega-level-3-collapse" aria-expanded="false" aria-controls="mega-level-3-collapse" title="Close Finance menu">
+                  <span class="sr-only">Close Finance menu</span>
+                </a>
+              </div>
+              <div class="container-lg">
+                                                                                                                                                    <ul class="navbar-nav">
+                                        <li class="nav-item col col-md-8">
+                                                  <ul class="navbar-nav container">
+                                              <li class="nav-item col-md-6">
+                          <span class="nav-link " onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Investors</span>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Investors</a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/finance/latest-consolidated-results/financial-information" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/169">Financial information at 31 December 2022</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/finance/investors/consolidated-results" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1529">Results</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/finance/investors/investors-conferences" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1530">Investors&#039; conferences</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="https://newsroom.orange.com/section/communiques-dossiers/?cat=71&amp;lang=en" class="nav-link " target="_self" rel="">Financial press releases</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/finance/investors/regulated-information" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1531">Regulated information</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/debt-and-rating" class="nav-link " target="_self" rel="">Debt and rating</a>
+                  </li>
+                              </ul>
+                      </li>
+                                      <li class="nav-item col-md-6">
+                          <span class="nav-link " onclick="if(window.matchMedia(&#039;screen and (min-width: 768px)&#039;).matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Individual shareholders</span>
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link back" href="">Individual shareholders</a>
+                </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/find-out-why-and-how-become-groups-shareholder" class="nav-link" target="_self" rel="">Become a shareholder</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/finance/individual-shareholders/advisory-committee" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1063">Being a shareholder</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/finance/individual-shareholders/shareholder-information" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1760">Understanding our challenges</a>
+                  </li>
+                                  <li class="nav-item">
+                                                                                <a href="/en/finance/shareholders-meeting" class="nav-link " target="_self" rel="">Annual Shareholders&#039; Meeting</a>
+                  </li>
+                              </ul>
+                      </li>
+              </ul>
+    
+                    </li>
+                                          <li class="nav-item nav-item-rte col col-md-4">
+            <div class="field field--name-field-right-content field--type-text-long field--label-hidden field--item"><ul class="navbar-nav container"><li class="nav-item col-md-12"><span class="nav-link" onclick="if(window.matchMedia('screen and (min-width: 768px)').matches) {event.stopImmediatePropagation(); event.preventDefault();activate_nav(this);}">Orange share</span>
+	<ul class="navbar-nav"><li class="nav-item"><a class="nav-link back" href="">Cotation</a></li>
+		<li class="nav-item">
+		<div data-embed-button="block" data-entity-embed-display="view_mode:block_content.full" data-entity-type="block_content" data-entity-uuid="ddc238c2-4d03-47a4-b81d-b961921e04fd" data-langcode="fr" class="embedded-entity">
+<div class="row bourse-block-widget-container" data-bourse="">
+    <div class="col_md-12">
+      <p class="bourse-block-widget-price-value">
+        <a data-bourse="link_price">
+          <span data-bourse="price"></span>
+        </a>
+      </p>
+        <div class="row">
+          <div class="col-md-6 bourse-block-widget-sublabel">
+            <div><span data-bourse="time_price"></span></div>
+            <div class="text-muted">
+              <span data-bourse="date_price"></span>
+            </div>
+          </div>
+          <div class="col-md-6 bourse-block-widget-variation-value" data-bourse="variation">
+            <a data-bourse="link_pct">
+              <span data-bourse="performance_pct"></span>
+            </a>
+          </div>
+        </div>
+    </div>
+</div>
+
+</div>
+</li>
+		<li class="nav-item"><a class="nav-link mt-3" data-drupal-link-system-path="node/1308" href="/en/finance/investors/share-and-consensus" rel="" target="_self">Share, Dividend and Consensus</a></li>
+	</ul></li>
+</ul><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+@media (min-width: 0px) and (max-width: 768px)
+header .mega-menu .navbar-nav .nav-item .field--item {
+    padding: 0 !important;
+}
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style></div>
+      </li>
+                                      </ul>
+                              </div>
+                              <div class="container-lg"><div class="navbar-nav"><div class="mega-menu-bottom col col-md-12">
+            <div class="field field--name-field-bottom-content field--type-text-long field--label-hidden field--item"><div class="container" style="max-width:100%;">
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="/en/information-meetings"><i class="bs-icon-left glyphicon bmhes-calendar_day text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">Financial calendar</span></a></div>
+
+<div class="col-md-3 col-sm-12 no-padding"><a class="nav-link no-padding" href="https://gallery.orange.com/finance#lang=en&amp;v=root"><i class="bs-icon-left glyphicon bmhes-internet text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">Finance Library</span></a></div>
+
+<div class="col-md-4 col-sm-12 no-padding"><a class="nav-link no-padding" href="/en/integrated-annual-reports"><i class="bs-icon-left glyphicon bmhes-internet text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">Integrated Annual Reports</span></a></div>
+
+<div class="col-md-2 col-sm-12 no-padding"><a class="nav-link no-padding" href="/en/contacts"><i class="bs-icon-left glyphicon bmhes-email text-align-center" style="word-spacing: 0.5em; line-height: 1.300;"></i>&nbsp; <span class="text">Contacts</span></a></div>
+</div>
+<style type="text/css">.nav-link.mt-3.border-bottom.border-700 {
+	border-bottom: 0.0625rem solid #666 !important;
+}
+</style>
+</div>
+      </div></div></div>
+                          </div>
+                  </li>
+      
+
+                                        
+                
+                                  
+        <li class="nav-item main-menu-level-0">
+                      <a href="/en/jobs" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1162">Careers</a>
+                  </li>
+      
+
+                                        
+                
+                                  
+        <li class="nav-item main-menu-level-0">
+                      <a href="https://newsroom.orange.com/?lang=en" target="_blank" class="nav-link " rel="">Newsroom</a>
+                  </li>
+      
+
+                                        
+                
+                                  
+        <li class="nav-item main-menu-level-0">
+                      <a href="/en/magazines" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1262">Magazines</a>
+                  </li>
+          </ul>
+  
+
+
+
+
+    
+
+                                  </div>
+        <ul class="navbar-nav d-none d-md-flex">
+
+    
+
+        <li class="nav-item">
+      <button type="button" class="nav-link btn btn-icon nav-icon svg-search collapsed" data-toggle="collapse" data-target="#algolia-search-bar" aria-expanded="false" aria-controls="algolia-search-bar">
+        <span class="sr-only">Algolia Search bar</span>
+      </button>
+    </li>
+  
+                 <li class="nav-item">
+      <a href="/fr" class="nav-link text-uppercase" lang="fr" aria-label="Version française" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">fr</a>
+    </li>         <li class="nav-item">
+      <a href="/en" class="nav-link text-uppercase active is-active" lang="en" aria-label="English version" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">en</a>
+    </li>
+
+    </ul>
+
+
+        
+      </div>
+    </nav>
+              <div class="collapse" id="algolia-search-bar">
+  <form role="search" class="container-lg d-flex py-0" data-drupal-selector="oab-algolia-searchbar-form" action="/en" method="post" id="oab-algolia-searchbar-form" accept-charset="UTF-8">
+  <div class="d-flex my-1 advanced-search-bar-container">
+<label for="algolia_search_autocomplete" class="btn btn-icon h-100 svg-search search-autocomplete-label"><span class="sr-only">Search</span></label><input placeholder="Search" class="form-control form-control-lg p-0 autocomplete-search-input algolia-search-autocomplete form-autocomplete form-text" data-drupal-selector="edit-algolia-search-autocomplete" data-autocomplete-path="/en/api/algolia_autocomplete/v1" type="text" id="edit-algolia-search-autocomplete" name="algolia_search_autocomplete" value="" size="60" maxlength="128" />
+
+
+
+<input autocomplete="off" data-drupal-selector="form-3d8e3fpxtkxicfpj8ltnmgpy7qkxsmvdwoqyq9f5og" type="hidden" name="form_build_id" value="form--3D8e3fPxtkXiCfpJ8LTNmgPy7qKxsMVdwoqyQ9F5Og" class="form-control" /><input data-drupal-selector="edit-oab-algolia-searchbar-form" type="hidden" name="form_id" value="oab_algolia_searchbar_form" class="form-control" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions--2"><input class="btn btn-inverse btn-lg autocomplete-search-submit button js-form-submit form-submit btn btn-secondary" data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Search" /></div>
+
+  <input type="reset" id="intranet_search_reset" aria-label="clear reset" value="" class="btn btn-icon btn-close autocomplete-search-reset" />
+</form>
+
+</div>
+
+
+      </div>
+
+
+    
+  </header>
+
+    <div class="sticky-margin"></div>
+
+
+  <main role="main" id="content" class="width-mode-large">
+    
+          <div class="">
+        <a id="pre-content"></a>
+        
+  <div class="region region-pre-content">
+
+    
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+    
+    <div class="content-container container-lg">
+      <div class="row">
+                                          <div class="col-12">
+                      <a id="main-content"></a>
+            
+  <div id="rs-content"  class="region region-content" >
+
+            <div class="d-flex flex-wrap content-tags">
+                </div>
+<section id="block-theme-boosted-content" class="block clearfix">
+  
+    
+
+      <div data-history-node-id="523" role="article" about="/en/home" class="node node_full home is-promoted full clearfix">
+  
+  
+    
+
+  <div class="content">
+    
+  </div>
+
+</div>
+
+  </section>
+
+
+  </div>
+
+                  </div>
+
+        
+        
+                      </div>
+    </div>
+  </main>
+
+
+
+    
+    
+    
+              
+    <div  class="width-mode-large">
+      <a id="pre-footer"></a>
+      
+  <div class="region region-prefooter">
+    <section id="block-globalbottomblock" class="block clearfix">
+  
+    
+
+      
+      <div class="field field--name-field-paragraph-block-bottom field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">
+  
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default container-edge">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><style type="text/css">/* By default screen in 4K and above */
+
+@media only screen and (orientation: landscape) {
+#hero{
+background-image: url(/sites/orangecom/files/styles/crop_16_9_large/public/2022-02/0-Post3_TG202106250486_MP.jpg.webp?itok=oTuMiXUB);
+background-repeat: no-repeat;
+background-position: 0% 34%;
+background-color: black;
+background-size: 100%;
+}
+}
+
+@media only screen and (orientation: portrait) {
+#hero{
+    background-image: url(/sites/orangecom/files/styles/crop_16_9_large/public/2022-02/0-Post3_TG202106250486_MP.jpg.webp?itok=oTuMiXUB);
+background-repeat: no-repeat;
+    background-color: black;
+background-size: cover;
+    background-position-x: 44%;
+}
+}
+
+#hero:focus{
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+
+#device a {
+        color: #ffffff !important;
+    }
+#device a:hover {
+        color: #ff7900 !important;
+    } 
+#device {
+        margin-left: 13rem;
+    }
+
+    /* For extremely small and small screen devices (max 569px) */
+    @media only screen and (max-width: 569px) {
+        #device {
+            margin-left: 0.5rem;
+        }
+    }
+    /* Medium screen devices (between 570px and 768px) */
+    @media only screen and (min-width: 570px) and (max-width: 768px) {
+        #device {
+            margin-left: 0.5rem;
+        }
+    }
+    /* Big screen devices (between 769px and 1470px) */
+    @media only screen and (min-width: 769px)  and (max-width: 1470px) {
+        #device {
+            margin-left: 1rem;
+        }
+
+    }
+    
+    /* Extra" big screen devices (between 1471px and 1510px) */
+    @media only screen and (min-width: 1471px) and (max-width: 1510px) {
+        #device {
+            margin-left: 2rem;
+        }
+
+}
+    }
+    /* Extra" big screen devices (between 1511px and 1720px) */
+    @media only screen and (min-width: 1511px) and (max-width: 1720px) {
+        #device {
+            margin-left: 9rem;
+        }
+    }
+    /* Extra" big screen devices (between 1721px and 1840px) */
+    @media only screen and (min-width: 1721px) and (max-width: 1840px) {
+        #device {
+            margin-left: 11rem;
+        }
+    }
+    /* More than "Extra" big screen devices (1841px and above) */
+    @media only screen and (min-width: 1841px) {
+        #device {
+            margin-left: 13rem;
+
+        }
+
+    }
+</style>
+<div id="hero" style="">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-5 col-md-4 col-sm-5" id="device">
+<h1 class="titre1" style="
+    margin-top: 3%;
+"><span style="font-size:2.3rem;"><font color="#ff7900">Ultra-fast and reliable: how 5G opens new possibilities</font></span></h1>
+
+<div class="my-3">
+<p class="highlight1" style="margin: 0px;"><span style="color:#000000;"><span style="font-size:1.125rem;"><span style="line-height:0;"><strong>We’re continuing to invest in high-performance and scalable technologies to ensure the best possible network quality. Our ongoing 5G roll-out ensures customers benefit from a smoother connectivity experience thanks to higher speeds and extra capacity. </strong></span></span></span></p>
+</div>
+
+<div class="pt-5 pb-5">
+<p><a class="btn btn-inverse btn-primary" href="/en/group/our-activities/networks/ultra-fast-and-reliable-how-5g-opens-new-possibilities">Find out more</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><div class="full-width-background bg_black mb-5">
+<div class="row obs_template one_column">
+<div class="col-md-12  mt-2">
+<p style="padding-left:0px"><strong>Our purpose</strong><br /><a class="link_black_bkg" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2081ede3-ba3f-457c-8213-ee71ced02824" href="/en/engagements/our-purpose-compass-guides-all-our-future-actions"><span style="color:#ff7900;"><strong>As a trusted partner, Orange gives everyone the keys to a responsible digital world.</strong></span></a></p>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><div class="row obs_template three_columns mt-2 mb-5">
+<div class="col-md-4 col-sm-12 d-flex flex-column pt-2">
+<h2 class="text-primary">Our commitments: our magazines explain our actions</h2>
+
+<h3 class="titre4">Digital innovation: do you trust it to have a positive impact?</h3>
+
+<div class="d-flex justify-content-between"><a class="btn btn-secondary" href="/en/magazines/innovation/digital-innovation-do-you-trust-it-to-have-a-positive-impact"><span class="text">Read the Magazine</span></a> <a class="btn btn-secondary" href="/en/magazines"><span class="text">All our Magazines</span></a></div>
+</div>
+
+<div class="col-md-4 col-sm-12 d-flex flex-column pt-2">
+<p class="align-middle pl-0">We’re living with two global crises – climate and confidence – where, like governments and organizations, technology is not always trusted. To counter the concerns that it is useless, harmful for the environment, or damaging to our privacy, how can we ensure digital innovation can be trusted as a positive source of progress for everyone? Here are just some of the questions tackled by our latest Orange magazine.</p>
+</div>
+
+<div class="col-md-4 col-sm-12">
+<div data-embed-button="media_entity_browser" data-entity-embed-display="entity_reference:media_thumbnail" data-entity-embed-display-settings="internal:/en/magazines/innovation/digital-innovation-do-you-trust-it-to-have-a-positive-impact crop_16_9" data-entity-type="media" data-entity-uuid="63a6aadb-2e5d-4832-bfe1-762806bb561e" data-langcode="fr" class="align-center embedded-entity"><a href="/en/magazines/innovation/digital-innovation-do-you-trust-it-to-have-a-positive-impact">  
+<img src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 1000 562&quot;%3E%3C/svg%3E" width="1000" height="562" alt="illustration planète dans un oeil" loading="lazy" typeof="foaf:Image" class="lazyload" data-src="/sites/orangecom/files/styles/crop_16_9/public/2023-01/soleil-magazine.png.webp?itok=5aOw8Yg2" /></a></div>
+</div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><h2 class="text-primary titre2 mt-2">Headlines</h2>
+
+<div class="card-deck">
+<div class="card mb-3 border-0">
+<div class="card-image">
+<div data-embed-button="media_entity_browser" data-entity-embed-display="entity_reference:media_thumbnail" data-entity-embed-display-settings="internal:/en/newsroom/news/2022/how-cfa-prepares-people-digital-jobs crop_16_9 Array" data-entity-type="media" data-entity-uuid="096894f4-0dfd-464e-b298-234c65100ff8" data-langcode="en" class="embedded-entity"><a href="/en/newsroom/news/2022/how-cfa-prepares-people-digital-jobs">  
+<img src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 1080 607&quot;%3E%3C/svg%3E" width="1080" height="607" alt="CFA Orange" loading="lazy" typeof="foaf:Image" class="lazyload" data-src="/sites/orangecom/files/styles/crop_16_9/public/2022-03/cfa-orange_1080x1080.png.webp?itok=sElcsIaP" /></a></div>
+</div>
+
+<div class="card-body">
+<h5 class="card-title">How the CFA prepares people for digital jobs</h5>
+
+<p class="card-text"><a class="stretched-link text-decoration-none" href="/en/newsroom/news/2022/how-cfa-prepares-people-digital-jobs">Orange offers three apprenticeship courses to French students and employees who wish to reskill through our Apprenticeship Training Center. Applications open on 3 April for our next courses which will start in September 2023. Feel free to help us share the news! </a></p>
+</div>
+</div>
+
+<div class="card mb-3 border-0">
+<div class="card-image">
+<div data-embed-button="media_entity_browser" data-entity-embed-display="entity_reference:media_thumbnail" data-entity-embed-display-settings="https://poesam.orange.com/en/ 1 crop_16_9" data-entity-type="media" data-entity-uuid="f6ab03cb-d6f8-4391-988b-bb94d65c7a73" data-langcode="en" class="embedded-entity"><a href="https://poesam.orange.com/en/" target="_blank">  
+<img src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 723 407&quot;%3E%3C/svg%3E" width="723" height="407" alt="un homme et une femme regardant une tablette tactile" loading="lazy" typeof="foaf:Image" class="lazyload" data-src="/sites/orangecom/files/styles/crop_16_9/public/2021-03/poesam.jpg.webp?itok=gEhP9gix" /></a></div>
+</div>
+
+<div class="card-body">
+<h5 class="card-title">The Orange Social Venture Prize in Africa and the Middle East</h5>
+
+<p class="card-text"><a class="stretched-link text-decoration-none" href="https://poesam.orange.com/en/" target="_blank">this International Grand Prix competition has welcomed start-ups from 17 countries in Africa and the Middle East. It identifies, rewards, and supports business propositions that make a positive social and environmental impact. Candidates can apply from March 13 to May 21 2023.</a></p>
+</div>
+</div>
+
+<div class="card mb-3 border-0">
+<div class="card-image">
+<div data-embed-button="media_entity_browser" data-entity-embed-display="entity_reference:media_thumbnail" data-entity-embed-display-settings="internal:/en/newsroom/news/2023/orange-presents-its-sporting-innovations-mobile-world-congress-2023 crop_16_9" data-entity-type="media" data-entity-uuid="37e252b0-4c45-47a3-8f49-8fe5eab985f7" data-langcode="en" class="embedded-entity"><a href="/en/newsroom/news/2023/orange-presents-its-sporting-innovations-mobile-world-congress-2023">  
+<img src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 1600 900&quot;%3E%3C/svg%3E" width="1600" height="900" alt="2 techniciens interviennent au bord d'une route" loading="lazy" typeof="foaf:Image" class="lazyload" data-src="/sites/orangecom/files/styles/crop_16_9/public/2023-03/Ban_Orange.com_1600X900.jpg.webp?itok=K00wxulm" /></a></div>
+</div>
+
+<div class="card-body">
+<h5 class="card-title">Our sporting innovations at Mobile World Congress 2023</h5>
+
+<p class="card-text"><a class="stretched-link text-decoration-none" href="/en/newsroom/news/2023/orange-presents-its-sporting-innovations-mobile-world-congress-2023">Eleven use cases to show how digital positively impacts our lives, especially in the world of sport, for fans, spectators, and athletes alike. </a></p>
+</div>
+</div>
+</div>
+
+<p class="text-align-center"><a class="btn btn-secondary" href="https://www.orange.com/en/newsroom/news"><span class="text">See all news</span></a></p>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><div class="container bg_black mt-5">
+<div style="padding:40px;">
+<h2 class="titre2"><span style="color:#ff7900;">About us</span></h2>
+
+<div class="row obs_template four_columns">
+<div class="col-md-3 col-sm-12">
+<h3 class="titre4"><span style="font-size:2.5rem;"><span style="color:#ffffff;">26</span></span><br /><a class="link_black_bkg" href="/en/orange-world" lass="link_black_bkg">operating countries</a></h3>
+
+<h3 class="titre4"><span style="font-size:2.5rem;"><span style="color:#ffffff;">287 million</span></span><br />
+customers worldwide</h3>
+<br />
+at 31 December 2022</div>
+
+<div class="col-md-3 col-sm-12">
+<h3 class="titre4"><span style="font-size:2.5rem;"><span style="color:#ffffff;">136,000</span></span><br />
+employees</h3>
+
+<h3 class="titre4"><span style="font-size:2.5rem;"><span style="color:#ffffff;"><span style="font-size:2.5rem;"><span style="color:#ffffff;">€</span></span>43.5 billion</span></span><br />
+in revenue</h3>
+</div>
+
+<div class="col-md-3 col-sm-12">
+<h3 class="titre4">Orange share price</h3>
+
+<div data-embed-button="block" data-entity-embed-display="view_mode:block_content.full" data-entity-type="block_content" data-entity-uuid="ddc238c2-4d03-47a4-b81d-b961921e04fd" data-langcode="en" class="embedded-entity">
+<div class="row bourse-block-widget-container" data-bourse="">
+    <div class="col_md-12">
+      <p class="bourse-block-widget-price-value">
+        <a data-bourse="link_price">
+          <span data-bourse="price"></span>
+        </a>
+      </p>
+        <div class="row">
+          <div class="col-md-6 bourse-block-widget-sublabel">
+            <div><span data-bourse="time_price"></span></div>
+            <div class="text-muted">
+              <span data-bourse="date_price"></span>
+            </div>
+          </div>
+          <div class="col-md-6 bourse-block-widget-variation-value" data-bourse="variation">
+            <a data-bourse="link_pct">
+              <span data-bourse="performance_pct"></span>
+            </a>
+          </div>
+        </div>
+    </div>
+</div>
+
+</div>
+</div>
+
+<div class="col-md-3 col-sm-12">
+<p style="padding-left:0px"><a class="link_black_bkg" href="https://rai2021.orange.com/en/" target="_blank"><i class="fa fa-1x bmhes-bookmark" style="padding-right:10px; padding-left:0px;"></i><strong>Integrated Annual Report</strong></a></p>
+
+<p style="padding-left:0px"><a class="link_black_bkg" href="https://www.orange.com/en/finance/latest-consolidated-results/financial-information"><i class="fa fa-1x bmhes-Trading" style="padding-right:10px; padding-left:0px;"></i><strong>Consolidated results</strong></a></p>
+
+<p><a class="btn btn-inverse btn-secondary" href="https://www.orange.com/en/group/overview/orange-group"><span class="text">Orange group</span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><div class="container bg_black mb-5">
+<div style="padding:40px;">
+<h2 class="titre2"><span style="color:#ff7900;">Meet our employees</span></h2>
+
+<div class="container">
+<div class="row obs_template two_columns">
+<div class="col-md-6 col-sm-12">
+<div data-embed-button="media_entity_browser" data-entity-embed-display="entity_reference:media_thumbnail" data-entity-embed-display-settings="internal:/en/jobs/fatoumata crop_16_9_large" data-entity-type="media" data-entity-uuid="c16acb5a-83eb-4906-9fbc-3de55fdccb49" data-langcode="fr" class="align-left embedded-entity"><a href="/en/jobs/fatoumata">  
+<img src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 940 529&quot;%3E%3C/svg%3E" width="940" height="529" alt="Photo de Fatoumata" loading="lazy" typeof="foaf:Image" class="lazyload" data-src="/sites/orangecom/files/styles/crop_16_9_large/public/2022-03/Fatoumata.JPG.webp?itok=zvVuUqkk" /></a></div>
+</div>
+
+<div class="col-md-6 col-sm-12">
+<p style="padding-left:0px"><a href="/en/jobs/fatoumata"><span style="color:#ffffff;"><strong>Discover the portrait of Fatoumata, Cloud Operations and Support Manager at Orange Business Senegal</strong></span></a></p>
+
+<p style="padding:0px"><span style="color:#ffffff;">Fatoumata supports our business customers’ digital projects, from hosting their IT systems in our data centers to virtual application hosting, corporate messaging, websites, data backups, and more. She manages a team of engineers and collaborates with many other teams (support teams, pre-sales, marketing, DSI, networks…).. Discover her job.</span></p>
+
+<div class="row obs_template two_columns">
+<div class="col-md-6 col-sm-12">
+<p><strong><a class="link_black_bkg" href="/en/jobs/fatoumata" title="portraits">Read the profile</a></strong></p>
+</div>
+
+<div class="col-md-6 col-sm-12">
+<p style="padding-left:0px"><span contenteditable="false" tabindex="-1"><a class="btn btn-inverse btn-secondary" data-widget="btbutton" href="/en/jobs#portraits"><span class="text">Discover the other portraits</span></a></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><div class="container">
+<div class="row obs_template two_columns mb-5">
+<div class="col-md-6 col-sm-12" style="padding-right:40px">
+<div data-embed-button="block" data-entity-embed-display="view_mode:block_content.full" data-entity-type="block_content" data-entity-uuid="2302b1ae-da6a-4afd-9670-05b4fe4a251c" data-langcode="fr" class="embedded-entity">
+<div id="epresspack_liste_zone">
+  <h3 class="h1">Latest press releases</h3>
+      <div id="ajax_content"></div>
+        <div align="right" class="more_link">
+      <a target="_blank" href="https://newsroom.orange.com/?&amp;lang=en">See all press realease</a>
+    </div>
+  </div>
+</div>
+<div class="row obs_template two_columns ">
+<div class="col-md-6 col-sm-12 no-padding">
+<p><a class="nav-link no-padding" href="https://newsroom.orange.com/vos-contacts-presse/?lang=fr" target="_blank"><i class="bs-icon-left glyphicon bmhes-email text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i>   <span class="text">Contact</span></a></p>
+</div>
+
+<div class="col-md-6 col-sm-12 no-padding">
+<p><a class="nav-link no-padding" href="https://newsroom.orange.com/abonnez-vous-aux-communiques/" target="_blank"><i class="bs-icon-left glyphicon bmhes-calendar_month text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i>   <span class="text">S'abonner</span></a></p>
+</div>
+</div>
+
+<div> </div>
+</div>
+
+<div class="col-md-6 col-sm-12">
+<h1 class="titre1"><span style="color:#000000;">Our calendar</span></h1>
+
+<div class="row obs_template one_column" style="background-color: #eeeeee; padding:20px">
+<div class="col-md-12"><span style="font-size:1rem; color:#595959;">27 February - 2 March 2023</span><br /><strong><a class="link_white_bkg" href="/en/newsroom/events" title="Forum">Mobile World Congress</a></strong></div>
+</div>
+
+<div> </div>
+
+<div class="row obs_template one_column" style="background-color: #eeeeee; padding:20px">
+<div class="col-md-12"><span style="font-size:1rem; color:#595959;">25 - 27 May 2023</span><br /><strong><a class="link_white_bkg" href="/en/newsroom/events" title="Forum">ChangeNoW</a></strong></div>
+</div>
+
+<div> </div>
+
+<div class="row obs_template one_column" style="background-color: #eeeeee; padding:20px">
+<div class="col-md-12"><span style="font-size:1rem; color:#595959;">14 - 17 June 2023</span><br /><strong><a class="link_white_bkg" href="/en/newsroom/events" title="Forum">VivaTechnology</a></strong></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--block-bottom paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field--item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+.linkblack {
+      color: #000000 !important;
+      text-decoration: none !important;
+}
+.linkblack:hover {
+      color: #000000 !important;
+      text-decoration: underline !important;
+}
+
+.o-country {
+max-height: 7.4rem;
+overflow-x: hidden;
+}
+.o-country a.dropdown-item {
+color: #000000 !important;
+}
+.o-country a.dropdown-item:hover {
+color: #ffffff !important;
+}
+
+/*--><!]]]]]]><![CDATA[><![CDATA[>*/
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style><div class="full-width-background pb-4" style="background-color:#ff7900">
+<p> </p>
+
+<h2 class="titre2">Supporting our customers</h2>
+
+<div class="row obs_template four_columns">
+<div class="col-md-3 col-sm-12 ">
+<h3 class="titre4">Explore our online shops</h3>
+
+<div class="dropdown-pays-footer">
+<div class="btn-toolbar  mt-3" role="toolbar">
+<div class="btn-group bg-dark"><button aria-expanded="false" aria-haspopup="true" class="btn btn-secondary btn-inverse dropdown-toggle" data-toggle="dropdown" id="darkDropdownMenuButton" type="button">Pays / Région</button>
+
+<div aria-labelledby="darkDropdownMenuButton" class="dropdown-menu o-country"><a class="dropdown-item" href="https://www.orange.be/" target="_blank">Belgique</a> <a class="dropdown-item" href="https://www.orange.co.bw/" target="_blank">Botswana</a> <a class="dropdown-item" href="https://www.orange.bf/" target="_blank">Burkina Faso</a> <a class="dropdown-item" href="https://www.orange.cm/" target="_blank">Cameroun</a> <a class="dropdown-item" href="https://twitter.com/OrangeRca" target="_blank">Centrafrique</a> <a class="dropdown-item" href="https://www.orange.ci/" target="_blank">Côte d'Ivoire</a> <a class="dropdown-item" href="https://www.orange.eg/ar/" target="_blank">Egypte</a> <a class="dropdown-item" href="https://www.orange.es/" target="_blank">Espagne</a> <a class="dropdown-item" href="https://www.orange.fr/portail7" target="_blank">France</a> <a class="dropdown-item" href="https://caraibe.orange.fr/" target="_blank">Guadeloupe</a> <a class="dropdown-item" href="https://www.orange-bissau.com/" target="_blank">Guinée Bissau</a> <a class="dropdown-item" href="https://www.orange-guinee.com/" target="_blank">Guinée Conakry</a> <a class="dropdown-item" href="https://caraibe.orange.fr/" target="_blank">Guyane Française</a> <a class="dropdown-item" href="https://reunion.orange.fr/" target="_blank">Ile de la réunion</a> <a class="dropdown-item" href="https://www.myt.mu/" target="_blank">Ile Maurice</a> <a class="dropdown-item" href="https://www.orange.jo/en/pages/default.aspx" target="_blank">Jordanie</a> <a class="dropdown-item" href="https://www.orange.com.lr/" target="_blank">Liberia</a> <a class="dropdown-item" href="http://www.orange.lu/fr" target="_blank">Luxembourg</a> <a class="dropdown-item" href="https://www.orange.mg/" target="_blank">Madagascar</a> <a class="dropdown-item" href="https://caraibe.orange.fr/" target="_blank">Martinique</a> <a class="dropdown-item" href="https://www.orangemali.com/" target="_blank">Mali</a> <a class="dropdown-item" href="https://www.orange.ma/" target="_blank">Maroc</a> <a class="dropdown-item" href="https://www.orange.md/" target="_blank">Moldavie</a> <a class="dropdown-item" href="https://www.orange.pl/" target="_blank">Pologne</a> <a class="dropdown-item" href="https://www.orange.cd/" target="_blank">République Démocratique du Congo </a> <a class="dropdown-item" href="https://www.orange.ro/" target="_blank">Roumanie</a> <a class="dropdown-item" href="https://www.orange.sn/" target="_blank">Sénégal</a> <a class="dropdown-item" href="https://www.orange.sk/" target="_blank">Slovaquie</a> <a class="dropdown-item" href="https://www.orange.sl/" target="_blank">Sierra Leone</a> <a class="dropdown-item" href="http://www.orange.tn/" target="_blank">Tunisie</a></div>
+</div>
+</div>
+</div>
+
+<p> </p>
+</div>
+
+<div class="col-md-3 col-sm-12 ">
+<h3 class="titre4">Residential customers in France</h3>
+<a class="linkblack no-padding" href="https://www.orange.fr/portail" target="_blank"><i class="bs-icon-left glyphicon bmhes-accessory_shop text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i> <strong><span class="text">Products and services</span></strong></a><br /><br /><a class="linkblack no-padding" href="https://assistance.orange.fr/" target="_blank"><i class="bs-icon-left glyphicon bmhes-assistance text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i> <strong><span class="text">Help and contact</span></strong></a>
+
+<p> </p>
+</div>
+
+<div class="col-md-3 col-sm-12 ">
+<h3 class="titre4">Pro and business customers</h3>
+<a class="linkblack no-padding" href="https://www.orange-business.com/en" target="_blank"><i class="bs-icon-left glyphicon bmhes-office text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i> <strong><span class="text">Business needs and solutions</span></strong></a><br /><br /><a class="linkblack no-padding" href="https://dro.orange-business.com/authentification?TYPE=33554433&amp;REALMOID=06-0000e733-54df-1266-8576-5e0e0a63d064&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-gUrJIM79DQHWmlRJjQDp4mcnVr48clFt5Ap3C1M8fuFDSulE0Xzk008WYvrLKb%2fV&amp;TARGET=-SM-https://my-service-space.orange-business.com%2fwacsmss%2fgroup%2fmssportal%2fhome&amp;codeContexte=MSS" target="_blank"><i class="bs-icon-left glyphicon bmhes-assistance text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i> <strong><span class="text">Business help and support </span></strong></a>
+
+<p> </p>
+</div>
+
+<div class="col-md-3 col-sm-12 mb-3">
+<h3 class="titre4">Orange around the world</h3>
+<a class="linkblack no-padding" href="/en/groups-websites" target="_blank"><i class="bs-icon-left glyphicon bmhes-international_globe text-align-left" style="word-spacing: 0.5em; line-height: 1.300;"></i> <strong><span class="text">Group's websites</span></strong></a></div>
+</div>
+</div>
+
+<div class="container mt-5 mb-5">
+<div class="row obs_template one_column">
+<div class="col-md-12">
+<p class="text-align-center "><span style="font-size:2.875rem; line-height: 2.875rem;"><span style="font-size:2.875rem; line-height: 2.875rem;"><strong>Deploying Paris 2024 for all</strong></span></span></p>
+<a aria-label="" class="" data-entity-substitution="" data-entity-type="" data-entity-uuid="" href="https://www.orange.com/en/delivering-Paris-2024-for-everyone" target="" title="">
+<div data-embed-button="media_entity_browser" data-entity-embed-display="entity_reference:media_thumbnail" data-entity-embed-display-settings="https://www.orange.com/en/delivering-Paris-2024-for-everyone crop_16_9_large" data-entity-type="media" data-entity-uuid="1ab9c6c7-6967-40a1-8275-47fe3b3f35f9" data-langcode="fr" class="align-center embedded-entity"><a href="https://www.orange.com/en/delivering-Paris-2024-for-everyone">  
+<img src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 940 529&quot;%3E%3C/svg%3E" width="940" height="529" alt="Illustration JO Paris" loading="lazy" typeof="foaf:Image" class="lazyload" data-src="/sites/orangecom/files/styles/crop_16_9_large/public/2023-02/Illustration-JO-generique.png.webp?itok=3f4I3Wpe" /></a></div>
+</a></div>
+</div>
+</div>
+
+<div><a aria-label="" data-entity-substitution="" data-entity-type="" data-entity-uuid="" href="https://www.orange.com/en/delivering-Paris-2024-for-everyone" target="" title=""> </a></div>
+</div>
+      
+      </div>
+</div>
+          </div>
+  
+  </section>
+
+
+  </div>
+
+    </div>
+  
+      <footer class="o-footer navbar navbar-dark navbar-expand-md pt-0 width-mode-large" role="contentinfo">
+        <div class="container d-block">
+      <div class="o-footer-top">
+        <div class="container m-0">
+                      
+
+    
+
+
+  
+      <ul data-region="footer" class="nav align-items-center menu-footer-social">
+      <li class="nav-item mb-3 ml-3 mr-2 mb-md-0 pl-md-0 col-md-auto mx-md-none">Follow us</li>
+      
+
+                        
+                
+                        
+
+
+        <li class="nav-item ml-3">
+                      <a class="nav-link btn btn-social btn btn-social btn-linkedin" href="https://www.linkedin.com/company/1110" target="_blank" rel="">
+              <span class="sr-only">LinkedIn</span>
+            </a>
+                  </li>
+      
+
+                        
+                
+                        
+
+
+        <li class="nav-item ">
+                      <a class="nav-link btn btn-social btn btn-social btn-facebook" href="https://www.facebook.com/Orange/" target="_blank" rel="">
+              <span class="sr-only">Facebook</span>
+            </a>
+                  </li>
+      
+
+                        
+                
+                        
+
+
+        <li class="nav-item ">
+                      <a class="nav-link btn btn-social btn btn-social btn-instagram" href="https://instagram.com/orange" target="_self" rel="">
+              <span class="sr-only">Instagram</span>
+            </a>
+                  </li>
+      
+
+                        
+                
+                        
+
+
+        <li class="nav-item ">
+                      <a class="nav-link btn btn-social btn btn-social btn-twitter" href="https://www.twitter.com/orange/" target="_blank" rel="">
+              <span class="sr-only">Twitter</span>
+            </a>
+                  </li>
+      
+
+                        
+                
+                        
+
+
+        <li class="nav-item ">
+                      <a class="nav-link btn btn-social " href="https://www.tiktok.com/@orange" target="_blank" rel=""
+               style="background-color: #fff; background-image: url(/sites/orangecom/files/2022-03/tiktok-logo_4.svg); background-position: center"
+               onmouseover="this.style.backgroundColor='#f16e00'; this.style.backgroundImage='url(/sites/orangecom/files/2022-03/tiktok-1_2.svg)';"
+               onmouseout="this.style.backgroundColor='#fff'; this.style.backgroundImage='url(/sites/orangecom/files/2022-03/tiktok-logo_4.svg)';">
+              <span class="sr-only">TikTok</span>
+            </a>
+                  </li>
+          </ul>
+  
+
+
+
+
+                  </div>
+      </div>
+      <div class="o-footer-body">
+        <div class="row">
+          <div class="col-12 col-md-8 col-lg-9">
+            <div class="row menu-principal-footer">
+                              
+
+    
+  
+                                    
+            
+      
+        <div class="col-md-6 col-sm-6 col-xs-12">
+
+                <h2>
+          <span class="nav-link " target="_self" rel="">About Orange</span>
+        </h2>
+
+      
+              <ul class="nav flex-column">
+          
+                                    
+            
+      
+        <li class="nav-item">
+          <a href="/en/orange-podcasts" class="nav-link" target="_self" rel="" data-drupal-link-system-path="node/1209">Podcasts</a>
+        </li>
+
+      
+                                        
+            
+      
+        <li class="nav-item">
+          <a href="/en/documentation-networks" class="nav-link " target="_self" rel="" data-drupal-link-system-path="node/1315">Networks documentation</a>
+        </li>
+
+      
+                                        
+            
+      
+        <li class="nav-item">
+          <a href="https://gallery.orange.com/finance/media/89a62fb4-a367-4d8b-a841-9f022903545c#v=Version1&amp;l=en" target="_blank" class="nav-link " rel="">Universal registration document</a>
+        </li>
+
+      
+                                        
+            
+      
+        <li class="nav-item">
+          <a href="https://gallery.orange.com/finance#lang=en&amp;v=root" target="_blank" class="nav-link " rel="">Investors&#039; Library</a>
+        </li>
+
+      
+                                        
+            
+      
+        <li class="nav-item">
+          <a href="https://gallery.orange.com/rse#lang=en&amp;v=root" target="_blank" class="nav-link " rel="">CSR Media library</a>
+        </li>
+
+      
+                      
+
+        </ul>
+                    </div>
+                                  
+            
+      
+        <div class="col-md-6 col-sm-6 col-xs-12">
+
+                <h2>
+          <span class="nav-link " target="_self" rel="">Other links</span>
+        </h2>
+
+      
+              <ul class="nav flex-column">
+          
+                                    
+            
+      
+        <li class="nav-item">
+          <a href="https://orange.jobs/site/fr-home/?utm_source=Ocomfr&amp;utm_medium=link&amp;utm_campaign=OrangeCom" target="_blank" class="nav-link " rel="">Jobs search</a>
+        </li>
+
+      
+                                        
+            
+      
+        <li class="nav-item">
+          <a href="https://radio-waves.orange.com/en/" target="_blank" class="nav-link " rel="">Radio Waves</a>
+        </li>
+
+      
+                                        
+            
+      
+        <li class="nav-item">
+          <a href="https://orangecyberdefense.com/" target="_blank" class="nav-link " rel="">Orange Cyberdefense</a>
+        </li>
+
+      
+                                        
+            
+      
+        <li class="nav-item">
+          <a href="https://www.orange-business.com/en" target="_blank" class="nav-link " rel="">Orange Business</a>
+        </li>
+
+      
+                      
+
+        </ul>
+                    </div>
+                
+
+
+
+
+                                                      </div>
+          </div>
+          <div class="col-12 col-md-4 col-lg-3">
+                      </div>
+        </div>
+      </div>
+
+      <div class="o-footer-bottom">
+                                          
+        <div class="footer-div-border ">
+          
+
+    
+  <div class="container m-0">
+          <ul class ="nav">
+                        
+            
+      <li class="nav-item">
+        <a href="/en/legal-matters" class="nav-link" target="_self" rel="">Legal matters <span class="caret"></span></a>
+
+            </li>
+                      
+            
+      <li class="nav-item">
+        <a href="/en/privacy-notice-protecting-your-personal-data" class="nav-link" target="_self" rel="">Personal data <span class="caret"></span></a>
+
+            </li>
+                      
+            
+      <li class="nav-item">
+        <a href="/en/accessibility-statement-wwworangecom" class="nav-link " target="_self" rel="">Accessibility <span class="caret"></span></a>
+
+            </li>
+                      
+            
+      <li class="nav-item">
+        <a href="/en/cert-orange" class="nav-link" target="_self" rel="">CERT <span class="caret"></span></a>
+
+            </li>
+                      
+            
+      <li class="nav-item">
+        <a href="/en/were-listening-you" class="nav-link" target="_self" rel="">Contacts <span class="caret"></span></a>
+
+            </li>
+                      
+            
+      <li class="nav-item">
+        <a href="https://orange.integrityline.org/" class="nav-link " target="_blank" rel="">File a report <span class="caret"></span></a>
+
+            </li>
+        <li class=" nav-item ">
+      <span class="nav-link disabled">
+      © Orange 2023
+        </span>
+    </li>
+  </ul>
+    
+  </div>
+
+
+
+        </div>
+      </div>
+
+
+  </div>
+
+
+
+    </footer>
+  
+  
+ <div class="d-none">bc210773b9f6ab9ce53c6228dfae9d19 </div>
+
+  </div>
+
+    
+    <script src="/core/misc/polyfills/nodelist.foreach.js?v=9.5.3"></script>
+<script src="/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/core/assets/vendor/es6-promise/es6-promise.auto.min.js?v=4.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=1.13.2"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=5.3.3"></script>
+<script src="/modules/custom/oab_algolia/js/algolia_search_autocomplete.js?v=9.5.3"></script>
+<script src="/core/misc/autocomplete.js?v=9.5.3"></script>
+<script src="/modules/custom/oab_frontoffice/js/intranet_search_autocomplete.js?v=9.5.3"></script>
+<script src="/modules/custom/oab_ckeditor_boosted_collapses/js/collapses.js?rsf7ic"></script>
+<script src="/modules/custom/oab_ckeditor_boosted_rtabs/js/Rtabs.js?rsf7ic"></script>
+<script src="/modules/custom/oab_ckeditor_boosted_tabs/js/tabs.js?rsf7ic"></script>
+<script src="/modules/custom/oab_tealium/js/tealium.js?rsf7ic"></script>
+<script src="/modules/custom/oab_tealium/js/ga.js?rsf7ic"></script>
+<script src="/themes/theme_boosted/js/popper.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/boosted/js/hack.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/boosted/js/boosted.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/readmorelink.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/header.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/social_bar/orange_socialbar.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/jquery.touchSwipe.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/slick.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/lazyload.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/scripts.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/swiper.jquery.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/switch.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/cssua.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/jquery.vgrid.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/matchmedia.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/bourse.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/bootstrap-select.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/defaults-fr_FR.min.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/atcb.js?v=9.5.3"></script>
+<script src="/themes/theme_boosted/js/dark.js?v=9.5.3"></script>
+<script src="/core/misc/progress.js?v=9.5.3"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=9.5.3"></script>
+<script src="/core/misc/ajax.js?v=9.5.3"></script>
+<script src="/modules/custom/oab_algolia/js/algolia_autocomplete.js?v=9.5.3"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=9.5.3"></script>
+<script src="/core/misc/position.js?v=9.5.3"></script>
+
+  </body>
+  </html>
